@@ -317,10 +317,6 @@ const e=`
           currency
           value
         }
-        gift_wrapping_for_order_incl_tax {
-          currency
-          value
-        }
         printed_card {
           currency
           value
