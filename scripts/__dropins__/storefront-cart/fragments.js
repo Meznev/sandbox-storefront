@@ -321,10 +321,6 @@ const e=`
           currency
           value
         }
-        printed_card_incl_tax {
-          currency
-          value
-        }
       }
       subtotal_with_discount_excluding_tax {
         currency
