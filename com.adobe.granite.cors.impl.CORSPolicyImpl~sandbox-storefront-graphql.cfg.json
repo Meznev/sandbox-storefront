@@ -9,7 +9,9 @@
     ""
   ],
   "alloworigin":[
-    "https://feature-toulouse-ubrbpei-qz4om3j65mjpm.eu-4.magentosite.cloud"
+    "https://feature-toulouse-ubrbpei-qz4om3j65mjpm.eu-4.magentosite.cloud",
+    "https://demo-fklvc3a-qz4om3j65mjpm.eu-4.magentosite.cloud",
+    "https://edge-graph.adobe.io"
   ],
   "maxage:Integer":1800,
   "alloworiginregexp":[
